@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpAH\\TodoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\infrastructures\\extensions\\adddependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:infrastructures\\extensions\\adddependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\application\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:application\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\domain\\appsetingsconfigurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:domain\\appsetingsconfigurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\application\\dtos\\userdto\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:application\\dtos\\userdto\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\application\\dtos\\userdto\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:application\\dtos\\userdto\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\infrastructures\\databasemapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:infrastructures\\databasemapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\application\\actionfillter\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:application\\actionfillter\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|d:\\csharpah\\todoweb\\application\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3609D3-9FC5-440B-B4FF-D01AC6F8142D}|TodoWeb.csproj|solutionrelative:application\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Application\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Application\\Helpers\\HashHelper.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Application\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "Application\\Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:50:37.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDependencyInjection.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Infrastructures\\Extensions\\AddDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\Extensions\\AddDependencyInjection.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Infrastructures\\Extensions\\AddDependencyInjection.cs",
+              "RelativeToolTip": "Infrastructures\\Extensions\\AddDependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:27:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Domain\\AppsetingsConfigurations\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\AppsetingsConfigurations\\JwtSettings.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Domain\\AppsetingsConfigurations\\JwtSettings.cs",
+              "RelativeToolTip": "Domain\\AppsetingsConfigurations\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:21:29.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T12:57:45.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCreateModel.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Application\\Dtos\\UserDTO\\UserCreateModel.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UserDTO\\UserCreateModel.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Application\\Dtos\\UserDTO\\UserCreateModel.cs",
+              "RelativeToolTip": "Application\\Dtos\\UserDTO\\UserCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:22:38.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Application\\Dtos\\UserDTO\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UserDTO\\UserLoginModel.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Application\\Dtos\\UserDTO\\UserLoginModel.cs",
+              "RelativeToolTip": "Application\\Dtos\\UserDTO\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:22:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:23:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Infrastructures\\DatabaseMapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "Infrastructures\\DatabaseMapping\\UserMapping.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Infrastructures\\DatabaseMapping\\UserMapping.cs",
+              "RelativeToolTip": "Infrastructures\\DatabaseMapping\\UserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:34:22.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Application\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IUserServices.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Application\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Application\\Services\\IUserServices.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwCYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:18:56.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Application\\ActionFillter\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "Application\\ActionFillter\\AuthorizationFilter.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Application\\ActionFillter\\AuthorizationFilter.cs",
+              "RelativeToolTip": "Application\\ActionFillter\\AuthorizationFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:27:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Controllers\\SchoolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SchoolController.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Controllers\\SchoolController.cs",
+              "RelativeToolTip": "Controllers\\SchoolController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:04:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:23:41.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAWwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:53:22.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSharpAH\\TodoWeb\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\CSharpAH\\TodoWeb\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:26:00.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
